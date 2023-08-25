@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm James,
+
+I'm currently learning Java and Javascript during the summer between my first and second year at the University of Winchester.
+
+My main projects are my portfolio website, with a blog, which is a big WIP as well as small python projects similar to my Calculator App i recently finished.
+
 <!--
 **JumesP/JumesP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
