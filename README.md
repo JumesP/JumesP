@@ -2,9 +2,11 @@
 
 I'm James,
 
-I'm currently learning Javascript, SQL, PHP Arduino/(C++) and Java during the summer between my first and second year at the University of Winchester.
+I'm currently learning Javascript, SQL, PHP Arduino/ (C++) and Java during the summer between my first and second year at the University of Winchester.
 
-My main projects are my portfolio website, with a blog, which is a big WIP as well as small python projects similar to my Calculator App i've just recently finished.
+My main projects are my portfolio website, with a blog, which is a big WIP. Also some small python projects similar to my Calculator App i've just recently finished!
+
+Thank you for reading
 
 <!--
 **JumesP/JumesP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
