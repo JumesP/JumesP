@@ -6,6 +6,8 @@ I'm currently learning Javascript, SQL, PHP, Arduino/ (C++) and Java during the 
 
 My main projects are my portfolio website, with a blog, which is a big WIP. Also some small python projects similar to my Calculator App i've just recently finished!
 
+Currently working on a Minesweeper game and Reading timer desktop application.
+
 Thank you for reading
 
 <!--
