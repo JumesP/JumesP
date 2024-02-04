@@ -4,7 +4,7 @@ I'm James,
 
 I'm currently focusing on learning Javascript while working through my second year at the University of Winchester studying Computer Science 🖥️.
 
-Currently working on learning react, due to its popularity and ability to progress my Javascript skills.
+Currently working on learning React, Typescript, Tailwind and NextJS, due to its popularity and ability to progress my Javascript skills.
 
 My main projects are is a cookie clicker app, learning basic vanilla Javascript skills before working moving to frameworks. I've also worked on some small python projects like my Calculator App and Reading Timer!
 
