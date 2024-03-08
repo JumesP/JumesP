@@ -9,6 +9,7 @@ Currently working on learning React, Typescript, Tailwind and NextJS, due to its
 My main projects are is a cookie clicker app, learning basic vanilla Javascript skills before working moving to frameworks. I've also worked on some small python projects like my Calculator App and Reading Timer!
 
 Dispite all of this, currently on a break from coding to complete assignments!
+
 At Uni im currently learning NodeJS, ExpressJS, Bootstrap, JQuery and MongoDB, and Jupyter for Software testing.
 
 Thank you for reading
