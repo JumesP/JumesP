@@ -6,11 +6,14 @@ I'm currently focusing on learning Javascript while working through my second ye
 
 Currently working on learning React, Typescript, Tailwind and NextJS, due to its popularity and ability to progress my Javascript skills.
 
-My main projects are is a cookie clicker app, learning basic vanilla Javascript skills before working moving to frameworks. I've also worked on some small python projects like my Calculator App and Reading Timer!
+My main projects are is a todo app, learning basic vanilla Javascript skills before working moving to frameworks. I've also worked on some small python projects like my Calculator App and Reading Timer and my cookie clicker clone!
 
 Dispite all of this, currently on a break from coding to complete assignments!
 
-At Uni im currently learning NodeJS, ExpressJS, Bootstrap, JQuery and MongoDB, and Jupyter for Software testing.
+At Uni im currently learning:
+  - Java, JavaFx, Object Orientated Programming,
+  - ML including data analytics using Weka
+  - Cyber Security and Risk Management
 
 Thank you for reading
 
