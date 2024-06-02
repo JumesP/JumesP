@@ -11,9 +11,7 @@ My main projects are is a todo app, learning basic vanilla Javascript skills bef
 Dispite all of this, currently on a break from coding to complete assignments!
 
 At Uni im currently learning:
-  - Java, JavaFx, Object Orientated Programming,
-  - ML including data analytics using Weka
-  - Cyber Security and Risk Management
+  - Java, JavaFx, Object Orientated Programming
 
 Thank you for reading
 
