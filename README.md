@@ -11,7 +11,7 @@ My main projects are is a todo app, learning basic vanilla Javascript skills bef
 Dispite all of this, currently on a break from coding to complete assignments!
 
 At Uni im currently learning:
-  - Java, JavaFx, Object Orientated Programming
+  - Java, JavaFx, FXML, Object Orientated Programming and SQL using JDBC and SQLITE
 
 Thank you for reading
 
