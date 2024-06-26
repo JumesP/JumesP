@@ -2,18 +2,16 @@
 
 I'm James,
 
-I'm currently working at Uniqodo during the summer before my Third year at the University of Winchester studying Computer Science 🖥️.
+I'm currently working at Uniqodo as a FE Software Engineer this summer before my Third year at the University of Winchester studying Computer Science 🖥️.
 
 <!--I'm currently focusing on learning Javascript while working through my second year at the University of Winchester studying Computer Science 🖥️.-->
 
 Currently working on learning React, Typescript, Tailwind and NextJS, due to its popularity and ability to progress my Javascript skills.
 
-My main projects are is a todo app, using TypeScript, React, Tailwind and MongoDB. I've also worked on some small python projects like my Calculator App and Reading Timer and my cookie clicker clone!
+My most recent main projects have been a todo app, using TypeScript, React, Tailwind and MongoDB as well as a Cookie clicker clone.
+I've also worked on some small python projects like my Calculator App and Reading Timer.
 
 Dispite all of this, currently on a break from coding to complete assignments!
-
-At Uni im currently learning:
-  - Java, JavaFx, FXML, Object Orientated Programming and SQL using JDBC and SQLITE
 
 Thank you for reading
 
