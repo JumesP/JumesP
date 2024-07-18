@@ -2,7 +2,7 @@
 
 I'm James,
 
-I'm currently works at Uniqodo as a FE Software Engineer Intern this summer before my Third year at the University of Winchester studying Computer Science 🖥️.
+I'm currently working at Uniqodo as a FE Software Engineer Intern this summer before my Third year at the University of Winchester studying Computer Science 🖥️.
 
 <!--I'm currently focusing on learning Javascript while working through my second year at the University of Winchester studying Computer Science 🖥️.-->
 
