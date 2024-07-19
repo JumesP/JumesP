@@ -9,9 +9,11 @@ I'm currently working at Uniqodo as a FE Software Engineer Intern this summer be
 <!--Currently working on learning React, Typescript, Tailwind and NextJS, due to its popularity and ability to progress my Javascript skills.-->
 
 ### Recent Projects:
-- a todo app (using TypeScript, React, Tailwind and MongoDB)
-- Cookie Clicker clone (using Javascript, web cookies, HTML and CSS)
-- Calculator App (using Python, Tkinter)
+- 📃 a todo app (using TypeScript, React, Tailwind and MongoDB)
+- 🍪 Cookie Clicker clone (using Javascript, web cookies, HTML and CSS)
+- 🧮 Calculator App (using Python, Tkinter)
+- 📕 MyProfile (Using MERN stack) is a profile application, sharing what you are currently doing.
+- 📆 WhenU3 (Using MERN stack (React Native)) an instant messaging and calendar app. (project team: [Jack](https://github.com/jack-bkr) and [Nate](https://github.com/gitnatel))
 <!--My most recent main projects have been a todo app (using TypeScript, React, Tailwind and MongoDB) as well as a Cookie clicker clone to further my JS.
 I've also worked on some small python projects like my Calculator App and Reading Timer.-->
 
