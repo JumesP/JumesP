@@ -2,9 +2,18 @@
 
 I'm James,
 
-<!-- 👨🏻‍💻 Epic Coder | 🖥 3rd Year Comp Sci Student | 🏢 Intern @ Uniqodo -->
+<!--
+👨🏻‍💻 Epic Coder  |  🖥 Third Year Comp Sci Student  |  🏢 Intern @ Uniqodo
 
-I'm currently working at Uniqodo as a FE Software Engineer Intern this summer before my Third year at the University of Winchester studying Computer Science 🖥️.
+👨🏻‍💻 Epic Coder
+
+🖥 Third Year Computer Science Student @ The University of Winchester
+
+🏢 Graduated as an Intern @ Uniqodo 👨‍💻
+
+-->
+
+I'm currently working at **Uniqodo** as a `Junior FE Software Engineer` part-time... <br> Whilst studing in my **third** year at **The University of Winchester** studying `Computer Science` 🖥️.
 
 
 <!--I'm currently focusing on learning Javascript while working through my second year at the University of Winchester studying Computer Science 🖥️.-->
@@ -29,7 +38,7 @@ I might be slow to respond due to work and personal projects.
 
 <!--Dispite all of this, currently on a break from coding to complete assignments!-->
 
-Thank you for reading
+Thank you for checking out my profile!
 
 <!--
 **JumesP/JumesP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
