@@ -21,7 +21,7 @@ I'm currently working at **Uniqodo** as a `Junior FE Software Engineer` part-tim
 <!--Currently working on learning React, Typescript, Tailwind and NextJS, due to its popularity and ability to progress my Javascript skills.-->
 
 ### Current Projects:
-- 🐟 [FishingGame](https://github.com/JumesP/FishingGame) (Using MERN stack) is a FishingGame (obviously), im creating the basics before i see where it leads
+- 🐟 [FishingGame](https://github.com/JumesP/FishingGame) (Using SERN stack) is a FishingGame (obviously), im creating the basics before i see where it leads
 - 📕 [MyProfile](https://github.com/JumesP/MyProfile) (Using MERN stack) is a profile application, sharing what you are currently doing.
 - 📆 [WhenU3](https://github.com/JumesP/WhenU3) (Using MERN stack (React Native)) an instant messaging and calendar app. (project team: [Jack](https://github.com/jack-bkr) and [Nate](https://github.com/gitnatel))
 <!--My most recent main projects have been a todo app (using TypeScript, React, Tailwind and MongoDB) as well as a Cookie clicker clone to further my JS.
