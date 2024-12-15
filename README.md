@@ -34,7 +34,7 @@ I've also worked on some small python projects like my Calculator App and Readin
 
 All are viewable on this GitHub account, so feel free to check it out. Soon i will be working on making the README's more descriptive!
 
-I might be slow to respond due to work and personal projects.
+I might be slow to respond due to University assignments, please be patient!
 
 <!--Dispite all of this, currently on a break from coding to complete assignments!-->
 
