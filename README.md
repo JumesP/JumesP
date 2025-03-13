@@ -13,7 +13,11 @@ I'm James,
 
 -->
 
-I'm currently working at **Uniqodo** as a `Junior FE Software Engineer` part-time <br> whilst studing in my ***third*** year at **The University of Winchester** studying `Computer Science` 🖥️.
+<!--I'm currently working at **Uniqodo** as a `Junior FE Software Engineer` part-time <br> whilst studing in my ***third*** year at **The University of Winchester** studying `Computer Science` 🖥️.-->
+
+I'm currently studing in my ***third*** year at **The University of Winchester** studying `Computer Science` 🖥️.
+
+<!--Mostly working on my dissertation, focusing on: analysising existing and creating an improved **Ai-Driven Personalisation/ recommendation Algorithm**.-->
 
 
 <!--I'm currently focusing on learning Javascript while working through my second year at the University of Winchester studying Computer Science 🖥️.-->
@@ -21,13 +25,15 @@ I'm currently working at **Uniqodo** as a `Junior FE Software Engineer` part-tim
 <!--Currently working on learning React, Typescript, Tailwind and NextJS, due to its popularity and ability to progress my Javascript skills.-->
 
 ### Current Projects:
+- 📝 [PRISM](https://github.com/JumesP/prism) (SERN stack) Personalized Recommendation Intelligence System Matrix
+- 👨‍💻 [Portfolio v2](https://github.com/JumesP/Portfoliov2) (React based) Personal Portfolio
 - 🐟 [FishingGame](https://github.com/JumesP/FishingGame) (Using SERN stack) is a FishingGame (obviously), im creating the basics before i see where it leads
 - 📕 [MyProfile](https://github.com/JumesP/MyProfile) (Using MERN stack) is a profile application, sharing what you are currently doing.
-- 📆 [WhenU3](https://github.com/JumesP/WhenU3) (Using MERN stack (React Native)) an instant messaging and calendar app. (project team: [Jack](https://github.com/jack-bkr) and [Nate](https://github.com/gitnatel))
+<!--- 📆 [WhenU3](https://github.com/JumesP/WhenU3) (Using MERN stack (React Native)) an instant messaging and calendar app. (project team: [Jack](https://github.com/jack-bkr) and [Nate](https://github.com/gitnatel))-->
 <!--My most recent main projects have been a todo app (using TypeScript, React, Tailwind and MongoDB) as well as a Cookie clicker clone to further my JS.
 I've also worked on some small python projects like my Calculator App and Reading Timer.-->
 
-### Recent Projects:
+### Recently Completed Projects:
 - 📃 **[a todo app](https://github.com/JumesP/todo)** (using TypeScript, React, Tailwind and MongoDB)
 - 🍪 [Cookie Clicker clone](https://github.com/JumesP/CookieClicker) (using Javascript, web cookies, HTML and CSS)
 - 🧮 [Calculator App](https://github.com/JumesP/Calculator-App) (using Python, Tkinter)
