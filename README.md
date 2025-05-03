@@ -27,7 +27,7 @@ I'm currently studing in my ***third*** year at **The University of Winchester**
 ### Current Projects:
 - 📝 [PRISM](https://github.com/JumesP/prism) (SERN stack) Personalized Recommendation Intelligence System Matrix
 - 🍺 [Drink](https://github.com/JumesP/Drink) (ERN stack currently) Assortment of Drinking games, `Just made blackjack work! (from scratch)`
-- 👨‍💻 [Portfolio v2](https://github.com/JumesP/Portfoliov2) (React based) Personal Portfolio
+- 👨‍💻 [Portfolio v2](https://github.com/JumesP/Portfoliov2) (React based) Personal Portfolio - [Jumes.me](https://jumes.me)
 - 🐟 [FishingGame](https://github.com/JumesP/FishingGame) (Using SERN stack) is a FishingGame (obviously), im creating the basics before i see where it leads
 - 📕 [MyProfile](https://github.com/JumesP/MyProfile) (Using MERN stack) is a profile application, sharing what you are currently doing.
 <!--- 📆 [WhenU3](https://github.com/JumesP/WhenU3) (Using MERN stack (React Native)) an instant messaging and calendar app. (project team: [Jack](https://github.com/jack-bkr) and [Nate](https://github.com/gitnatel))-->
