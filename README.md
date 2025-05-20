@@ -17,7 +17,21 @@ I'm James,
 
 I'm currently studing in my ***third*** year at **The University of Winchester** studying `Computer Science` 🖥️.
 
-<!--Mostly working on my dissertation, focusing on: analysising existing and creating an improved **Ai-Driven Personalisation/ recommendation Algorithm**.-->
+
+### Stats
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JumesP&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JumesP&theme=radical" />
+</a>
+
+
+
+
+### Main Focus:
+
+Mostly working on my [Dissertation](https://github.com/JumesP/prism), analysising existing and creating an improved **Ai-Driven Personalisation/ recommendation Algorithm**.
 
 
 <!--I'm currently focusing on learning Javascript while working through my second year at the University of Winchester studying Computer Science 🖥️.-->
@@ -40,13 +54,23 @@ I've also worked on some small python projects like my Calculator App and Readin
 - 🍪 [Cookie Clicker clone](https://github.com/JumesP/CookieClicker) (using Javascript, web cookies, HTML and CSS)
 - 🧮 [Calculator App](https://github.com/JumesP/Calculator-App) (using Python, Tkinter)
 
-All are viewable on this GitHub account, so feel free to check it out. Soon i will be working on making the README's more descriptive!
+<br>
+
+All are viewable on this GitHub account, so feel free to check it out. <!--Soon i will be working on making the README's more descriptive!-->
 
 I might be slow to respond due to University assignments, please be patient!
 
 <!--Dispite all of this, currently on a break from coding to complete assignments!-->
 
 Thank you for checking out my profile!
+
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JumesP&layout=compact)
+-->
+
+
 
 <!--
 **JumesP/JumesP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
