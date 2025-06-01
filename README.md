@@ -28,10 +28,10 @@ I'm currently studing in my ***third*** year at **The University of Winchester**
 
 
 
-
+<!--
 ### Main Focus:
 
-Mostly working on my [Dissertation](https://github.com/JumesP/prism), analysising existing and creating an improved **Ai-Driven Personalisation/ recommendation Algorithm**.
+Mostly working on my [Dissertation](https://github.com/JumesP/prism), analysising existing and creating an improved **Ai-Driven Personalisation/ recommendation Algorithm**. -->
 
 
 <!--I'm currently focusing on learning Javascript while working through my second year at the University of Winchester studying Computer Science 🖥️.-->
@@ -39,7 +39,7 @@ Mostly working on my [Dissertation](https://github.com/JumesP/prism), analysisin
 <!--Currently working on learning React, Typescript, Tailwind and NextJS, due to its popularity and ability to progress my Javascript skills.-->
 
 ### Current Projects:
-- 📝 [PRISM](https://github.com/JumesP/prism) (SERN stack) Personalized Recommendation Intelligence System Matrix
+- ♟️ [chess](https://github.com/JumesP/chess) (SERN stack) Chess Puzzle Generator
 - 🍺 [Drink](https://github.com/JumesP/Drink) (ERN stack currently) Assortment of Drinking games, `Just made blackjack work! (from scratch)`
 - 👨‍💻 [Portfolio v2](https://github.com/JumesP/Portfoliov2) (React based) Personal Portfolio - [Jumes.me](https://jumes.me)
 - 🐟 [FishingGame](https://github.com/JumesP/FishingGame) (Using SERN stack) is a FishingGame (obviously), im creating the basics before i see where it leads
