@@ -39,7 +39,8 @@ Mostly working on my [Dissertation](https://github.com/JumesP/prism), analysisin
 <!--Currently working on learning React, Typescript, Tailwind and NextJS, due to its popularity and ability to progress my Javascript skills.-->
 
 ### Current Projects:
-- ♟️ [chess](https://github.com/JumesP/chess) (SERN stack) Chess Puzzle Generator
+- ♟️ [Chess](https://github.com/JumesP/chess) (SERN stack) Chess Puzzle Generator
+- 🎌 [Niholearn](https://github.com/JumesP/niholearn) (React based) Japanese Language Learning PWA
 - 🍺 [Drink](https://github.com/JumesP/Drink) (ERN stack currently) Assortment of Drinking games, `Just made blackjack work! (from scratch)`
 - 👨‍💻 [Portfolio v2](https://github.com/JumesP/Portfoliov2) (React based) Personal Portfolio - [Jumes.me](https://jumes.me)
 - 🐟 [FishingGame](https://github.com/JumesP/FishingGame) (Using SERN stack) is a FishingGame (obviously), im creating the basics before i see where it leads
@@ -57,8 +58,6 @@ I've also worked on some small python projects like my Calculator App and Readin
 <br>
 
 All are viewable on this GitHub account, so feel free to check it out. <!--Soon i will be working on making the README's more descriptive!-->
-
-I might be slow to respond due to University assignments, please be patient!
 
 <!--Dispite all of this, currently on a break from coding to complete assignments!-->
 
