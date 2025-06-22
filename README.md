@@ -15,8 +15,11 @@ I'm James,
 
 <!--I'm currently working at **Uniqodo** as a `Junior FE Software Engineer` part-time <br> whilst studing in my ***third*** year at **The University of Winchester** studying `Computer Science` 🖥️.-->
 
-I'm currently studing in my ***third*** year at **The University of Winchester** studying `Computer Science` 🖥️.
+<!-- I'm currently studing in my ***third*** year at **The University of Winchester** studying `Computer Science` 🖥️. -->
 
+I've just finished studing in my ***third*** year at **The University of Winchester** studying `Computer Science` 🖥️.
+
+Currently working on projects to display my talents to recruiters and further my practical knowledge
 
 ### Stats
 <a href="https://github.com/anuraghazra/convoychat">
