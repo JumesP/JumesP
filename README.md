@@ -42,6 +42,7 @@ Mostly working on my [Dissertation](https://github.com/JumesP/prism), analysisin
 <!--Currently working on learning React, Typescript, Tailwind and NextJS, due to its popularity and ability to progress my Javascript skills.-->
 
 ### Current Projects:
+- 💪 [TrainEvoo](https://trainevoo.com/TrainEvoo/) (**CTO and Founder**) A Client Meets Personal Trainer SaaS Startup
 - ♟️ [Chess](https://github.com/JumesP/chess) (SERN stack) Chess Puzzle Generator
 - 🎌 [Niholearn](https://github.com/JumesP/niholearn) (React based) Japanese Language Learning PWA
 - 🍺 [Drink](https://github.com/JumesP/Drink) (ERN stack currently) Assortment of Drinking games, `Just made blackjack work! (from scratch)`
