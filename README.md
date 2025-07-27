@@ -42,7 +42,7 @@ Mostly working on my [Dissertation](https://github.com/JumesP/prism), analysisin
 <!--Currently working on learning React, Typescript, Tailwind and NextJS, due to its popularity and ability to progress my Javascript skills.-->
 
 ### Current Projects:
-- 💪 [TrainEvoo](https://trainevoo.com/TrainEvoo/) (**CTO and Founder**) A Client Meets Personal Trainer SaaS Startup
+- 💪 [TrainEvoo](https://trainevoo.com/TrainEvoo/) (**CTO and Founder**) Full-stack SaaS Startup for booking personal trainers online
 - 🐟 [FishingGame](https://github.com/JumesP/FishingGame) (Using SERN stack) is a FishingGame (obviously), im creating the basics before i see where it leads
 - 👨‍💻 [Portfolio v2](https://github.com/JumesP/Portfoliov2) (React based) Personal Portfolio - [Jumes.me](https://jumes.me)
 - 🍽️ [Mealio](https://github.com/JumesP/Mealio) (SERN) Delivery Website
