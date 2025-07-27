@@ -19,7 +19,7 @@ I'm James,
 
 I've just recieved a `First Class Honours` from **The University of Winchester** studying `Computer Science` 🖥️.
 
-Currently working on projects to display my talents to recruiters and further my practical knowledge
+Currently working on projects to display my talents to recruiters and further my practical knowledge.
 
 ### Stats
 <a href="https://github.com/anuraghazra/convoychat">
@@ -43,11 +43,12 @@ Mostly working on my [Dissertation](https://github.com/JumesP/prism), analysisin
 
 ### Current Projects:
 - 💪 [TrainEvoo](https://trainevoo.com/TrainEvoo/) (**CTO and Founder**) A Client Meets Personal Trainer SaaS Startup
+- 🐟 [FishingGame](https://github.com/JumesP/FishingGame) (Using SERN stack) is a FishingGame (obviously), im creating the basics before i see where it leads
+- 👨‍💻 [Portfolio v2](https://github.com/JumesP/Portfoliov2) (React based) Personal Portfolio - [Jumes.me](https://jumes.me)
+- 🍽️ [Mealio](https://github.com/JumesP/Mealio) (SERN) Delivery Website
 - ♟️ [Chess](https://github.com/JumesP/chess) (SERN stack) Chess Puzzle Generator
 - 🎌 [Niholearn](https://github.com/JumesP/niholearn) (React based) Japanese Language Learning PWA
 - 🍺 [Drink](https://github.com/JumesP/Drink) (ERN stack currently) Assortment of Drinking games, `Just made blackjack work! (from scratch)`
-- 👨‍💻 [Portfolio v2](https://github.com/JumesP/Portfoliov2) (React based) Personal Portfolio - [Jumes.me](https://jumes.me)
-- 🐟 [FishingGame](https://github.com/JumesP/FishingGame) (Using SERN stack) is a FishingGame (obviously), im creating the basics before i see where it leads
 - 📕 [MyProfile](https://github.com/JumesP/MyProfile) (Using MERN stack) is a profile application, sharing what you are currently doing.
 <!--- 📆 [WhenU3](https://github.com/JumesP/WhenU3) (Using MERN stack (React Native)) an instant messaging and calendar app. (project team: [Jack](https://github.com/jack-bkr) and [Nate](https://github.com/gitnatel))-->
 <!--My most recent main projects have been a todo app (using TypeScript, React, Tailwind and MongoDB) as well as a Cookie clicker clone to further my JS.
