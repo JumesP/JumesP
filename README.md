@@ -21,14 +21,6 @@ I've just recieved a `First Class Honours` from **The University of Winchester**
 
 Currently working on projects to display my talents to recruiters and further my practical knowledge.
 
-### Stats
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JumesP&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JumesP&theme=radical" />
-</a>
-
 
 
 <!--
@@ -43,13 +35,13 @@ Mostly working on my [Dissertation](https://github.com/JumesP/prism), analysisin
 
 ### Current Projects:
 - 💪 [TrainEvoo](https://trainevoo.com/TrainEvoo/) (**CTO and Founder**) Full-stack SaaS Startup for booking personal trainers online
-- 🐟 [FishingGame](https://github.com/JumesP/FishingGame) (Using SERN stack) is a FishingGame (obviously), im creating the basics before i see where it leads
 - 👨‍💻 [Portfolio v2](https://github.com/JumesP/Portfoliov2) (React based) Personal Portfolio - [Jumes.me](https://jumes.me)
-- 🍽️ [Mealio](https://github.com/JumesP/Mealio) (SERN) Delivery Website
-- ♟️ [Chess](https://github.com/JumesP/chess) (SERN stack) Chess Puzzle Generator
-- 🎌 [Niholearn](https://github.com/JumesP/niholearn) (React based) Japanese Language Learning PWA
-- 🍺 [Drink](https://github.com/JumesP/Drink) (ERN stack currently) Assortment of Drinking games, `Just made blackjack work! (from scratch)`
-- 📕 [MyProfile](https://github.com/JumesP/MyProfile) (Using MERN stack) is a profile application, sharing what you are currently doing.
+<!--- 🐟 [FishingGame](https://github.com/JumesP/FishingGame) (Using SERN stack) is a FishingGame (obviously), im creating the basics before i see where it leads-->
+<!--- 🍽️ [Mealio](https://github.com/JumesP/Mealio) (SERN) Delivery Website-->
+<!--- ♟️ [Chess](https://github.com/JumesP/chess) (SERN stack) Chess Puzzle Generator-->
+<!--- 🎌 [Niholearn](https://github.com/JumesP/niholearn) (React based) Japanese Language Learning PWA-->
+<!--- 🍺 [Drink](https://github.com/JumesP/Drink) (ERN stack currently) Assortment of Drinking games, `Just made blackjack work! (from scratch)`-->
+<!--- 📕 [MyProfile](https://github.com/JumesP/MyProfile) (Using MERN stack) is a profile application, sharing what you are currently doing.-->
 <!--- 📆 [WhenU3](https://github.com/JumesP/WhenU3) (Using MERN stack (React Native)) an instant messaging and calendar app. (project team: [Jack](https://github.com/jack-bkr) and [Nate](https://github.com/gitnatel))-->
 <!--My most recent main projects have been a todo app (using TypeScript, React, Tailwind and MongoDB) as well as a Cookie clicker clone to further my JS.
 I've also worked on some small python projects like my Calculator App and Reading Timer.-->
@@ -60,7 +52,21 @@ I've also worked on some small python projects like my Calculator App and Readin
 - 🍪 [Cookie Clicker clone](https://github.com/JumesP/CookieClicker) (using Javascript, web cookies, HTML and CSS)
 - 🧮 [Calculator App](https://github.com/JumesP/Calculator-App) (using Python, Tkinter)
 
+<!--
+
 <br>
+
+### Stats
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JumesP&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JumesP&theme=radical" />
+</a>
+
+<br>
+
+-->
 
 All are viewable on this GitHub account, so feel free to check it out. <!--Soon i will be working on making the README's more descriptive!-->
 
