@@ -19,10 +19,11 @@ I'm James,
 
 I've just recieved a `First Class Honours` from **The University of Winchester** studying `Computer Science` 🖥️.
 
-Currently working on projects to display my talents to recruiters and further my practical knowledge.
+I'm currently working at 🏢 `MediaFerry(EKCS)` as a 🧑🏻‍💻 **Junior Full Stack Developer** and working on my `Startup` 💪 **TrainEvoo**.
 
+<hr>
 
-
+# Projects
 <!--
 ### Main Focus:
 
