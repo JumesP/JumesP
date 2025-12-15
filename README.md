@@ -23,7 +23,6 @@ I'm currently working at 🏢 `MediaFerry(EKCS)` as a 🧑🏻‍💻 **Junior F
 
 <hr>
 
-# Projects
 <!--
 ### Main Focus:
 
