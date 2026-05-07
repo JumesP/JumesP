@@ -19,7 +19,9 @@ I'm James,
 
 I've just recieved a `First Class Honours` from **The University of Winchester** studying `Computer Science` 🖥️.
 
-I'm currently working at 🏢 `MediaFerry(EKCS)` as a 🧑🏻‍💻 **Junior Full Stack Developer** and working on my `Startup` 💪 **TrainEvoo**.
+I'm currently working at 🏢 `MediaFerry(EKCS)` as a 🧑🏻‍💻 **Junior Full Stack Developer**
+
+<!--and working on my `Startup` 💪 **TrainEvoo**. -->
 
 <hr>
 
@@ -34,7 +36,7 @@ Mostly working on my [Dissertation](https://github.com/JumesP/prism), analysisin
 <!--Currently working on learning React, Typescript, Tailwind and NextJS, due to its popularity and ability to progress my Javascript skills.-->
 
 ### Current Projects:
-- 💪 [TrainEvoo](https://trainevoo.com/TrainEvoo/) (**CTO and Founder**) Full-stack SaaS Startup for booking personal trainers online
+<!--- - 💪 [TrainEvoo](https://trainevoo.com/TrainEvoo/) (**CTO and Founder**) Full-stack SaaS Startup for booking personal trainers online -->
 - 👨‍💻 [Portfolio v2](https://github.com/JumesP/Portfoliov2) (React based) Personal Portfolio - [Jumes.me](https://jumes.me)
 - 👨‍💻 [Progress](https://github.com/JumesP/Progress) Goals and Progress tracker for 2026! - Storage via cookies
 <!--- 🐟 [FishingGame](https://github.com/JumesP/FishingGame) (Using SERN stack) is a FishingGame (obviously), im creating the basics before i see where it leads-->
