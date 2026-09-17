@@ -37,7 +37,7 @@ Mostly working on my [Dissertation](https://github.com/JumesP/prism), analysisin
 
 ### Current Projects:
 <!--- - 💪 [TrainEvoo](https://trainevoo.com/TrainEvoo/) (**CTO and Founder**) Full-stack SaaS Startup for booking personal trainers online -->
-- 👨‍💻 [Portfolio v2](https://github.com/JumesP/Portfoliov2) (React based) Personal Portfolio - [Jumes.me](https://jumes.me)
+- 👨‍💻 [Portfolio v3](https://github.com/JumesP/Portfoliov3) (NextJS and React based, AWS hosted) Personal Portfolio - [Jumes.me](https://jumes.me)
 - ♟️ [ChessEngine](https:/github.com/JumesP/ChessEngine) (C# .Net) Basic Chess Evaluator and Best Move Generator
 <!--- 👨‍💻 [Progress](https://github.com/JumesP/Progress) Goals and Progress tracker for 2026! - Storage via cookies -->
 <!--- 🐟 [FishingGame](https://github.com/JumesP/FishingGame) (Using SERN stack) is a FishingGame (obviously), im creating the basics before i see where it leads-->
