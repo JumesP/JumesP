@@ -37,8 +37,8 @@ Mostly working on my [Dissertation](https://github.com/JumesP/prism), analysisin
 
 ### Current Projects:
 <!--- - 💪 [TrainEvoo](https://trainevoo.com/TrainEvoo/) (**CTO and Founder**) Full-stack SaaS Startup for booking personal trainers online -->
-- 👨‍💻 [Portfolio v3](https://github.com/JumesP/Portfoliov3) (NextJS and React based, AWS hosted) Personal Portfolio - [Jumes.me](https://jumes.me)
-- ♟️ [ChessEngine](https:/github.com/JumesP/ChessEngine) (C# .Net) Basic Chess Evaluator and Best Move Generator
+- 👨‍💻 [Portfolio v3](https://github.com/JumesP/Portfoliov3) `(NextJS and React based, AWS hosted)` Personal Portfolio - [Jumes.me](https://jumes.me)
+- ♟️ [ChessEngine](https:/github.com/JumesP/ChessEngine) `(C# .Net)` Basic Chess Evaluator and Best Move Generator
 <!--- 👨‍💻 [Progress](https://github.com/JumesP/Progress) Goals and Progress tracker for 2026! - Storage via cookies -->
 <!--- 🐟 [FishingGame](https://github.com/JumesP/FishingGame) (Using SERN stack) is a FishingGame (obviously), im creating the basics before i see where it leads-->
 <!--- 🍽️ [Mealio](https://github.com/JumesP/Mealio) (SERN) Delivery Website-->
@@ -51,10 +51,10 @@ Mostly working on my [Dissertation](https://github.com/JumesP/prism), analysisin
 I've also worked on some small python projects like my Calculator App and Reading Timer.-->
 
 ### Recently Completed Projects:
-- 🔐 [GateKeepr](https://github.com/JumesP/GateKeepr) (Using MEN stack) is a login authenticator app used for future projects accounts functionality.
-- 📃 [a todo app](https://github.com/JumesP/todo) (using TypeScript, React, Tailwind and MongoDB)
-- 🍪 [Cookie Clicker clone](https://github.com/JumesP/CookieClicker) (using Javascript, web cookies, HTML and CSS)
-- 🧮 [Calculator App](https://github.com/JumesP/Calculator-App) (using Python, Tkinter)
+- 🔐 [GateKeepr](https://github.com/JumesP/GateKeepr) `(Using MEN stack)` is a login authenticator app used for future projects accounts functionality.
+- 📃 [a todo app](https://github.com/JumesP/todo) `(using TypeScript, React, Tailwind and MongoDB)`
+- 🍪 [Cookie Clicker clone](https://github.com/JumesP/CookieClicker) `(using Javascript, web cookies, HTML and CSS)`
+- 🧮 [Calculator App](https://github.com/JumesP/Calculator-App) `(using Python, Tkinter)`
 
 <!--
 
