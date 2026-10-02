@@ -17,9 +17,7 @@ I'm James,
 
 <!-- I'm currently studing in my ***third*** year at **The University of Winchester** studying `Computer Science` 🖥️. -->
 
-I've just recieved a `First Class Honours` from **The University of Winchester** studying `Computer Science` 🖥️.
-
-I'm currently working at 🏢 `MediaFerry(EKCS)` as a 🧑🏻‍💻 **Junior Full Stack Developer**
+I've achieved a `First Class Honours` from **The University of Winchester** for studying `Computer Science` 🖥️.
 
 <!--and working on my `Startup` 💪 **TrainEvoo**. -->
 
