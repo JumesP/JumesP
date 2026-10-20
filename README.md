@@ -35,8 +35,8 @@ Mostly working on my [Dissertation](https://github.com/JumesP/prism), analysisin
 
 ### Current Projects:
 - 📍 [GeoSim](https://github.com/JumesP/GeoSim) `(NextJS front and NodeJS back based, AWS hosted)` Location Based Autonomous Life Simulator.
-- 🎧 [MusicPi]() `(Raspberry Pi, Spotify Soloist, Rust, Slint, Linux)` Custom Portable Music Player.
-- 🤖 [AICodingAssistant]() `(NextJs, React and Typescript based)` AI Coding Developer Assistant.
+- 🎧 [MusicPi](https://github.com/JumesP/musicpi-home) `(Raspberry Pi, Spotify Soloist, Rust, Slint, Linux)` Custom Portable Music Player.
+- 🤖 [AICodingAssistant](https://github.com/JumesP/CodingAssistant) `(NextJs, React and Typescript based)` AI Coding Developer Assistant.
 
 <!--- - 💪 [TrainEvoo](https://trainevoo.com/TrainEvoo/) (**CTO and Founder**) Full-stack SaaS Startup for booking personal trainers online -->
 <!--- - 👨‍💻 [Portfolio v3](https://github.com/JumesP/Portfoliov3) `(NextJS and React based, AWS hosted)` Personal Portfolio - [Jumes.me](https://jumes.me)
