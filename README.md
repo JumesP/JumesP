@@ -34,9 +34,13 @@ Mostly working on my [Dissertation](https://github.com/JumesP/prism), analysisin
 <!--Currently working on learning React, Typescript, Tailwind and NextJS, due to its popularity and ability to progress my Javascript skills.-->
 
 ### Current Projects:
+- 📍 [GeoSim](https://github.com/JumesP/GeoSim) `(NextJS front and NodeJS back based, AWS hosted)` Location Based Autonomous Life Simulator.
+- 🎧 [MusicPi]() `(Raspberry Pi, Spotify Soloist, Rust, Slint, Linux)` Custom Portable Music Player.
+- 🤖 [AICodingAssistant]() `(NextJs, React and Typescript based)` AI Coding Developer Assistant.
+
 <!--- - 💪 [TrainEvoo](https://trainevoo.com/TrainEvoo/) (**CTO and Founder**) Full-stack SaaS Startup for booking personal trainers online -->
-- 👨‍💻 [Portfolio v3](https://github.com/JumesP/Portfoliov3) `(NextJS and React based, AWS hosted)` Personal Portfolio - [Jumes.me](https://jumes.me)
-- ♟️ [ChessEngine](https:/github.com/JumesP/ChessEngine) `(C# .Net)` Basic Chess Evaluator and Best Move Generator
+<!--- - 👨‍💻 [Portfolio v3](https://github.com/JumesP/Portfoliov3) `(NextJS and React based, AWS hosted)` Personal Portfolio - [Jumes.me](https://jumes.me)
+<!--- - ♟️ [ChessEngine](https:/github.com/JumesP/ChessEngine) `(C# .Net)` Basic Chess Evaluator and Best Move Generator - [Chess Engine](https://jumes.me/chess-engine)
 <!--- 👨‍💻 [Progress](https://github.com/JumesP/Progress) Goals and Progress tracker for 2026! - Storage via cookies -->
 <!--- 🐟 [FishingGame](https://github.com/JumesP/FishingGame) (Using SERN stack) is a FishingGame (obviously), im creating the basics before i see where it leads-->
 <!--- 🍽️ [Mealio](https://github.com/JumesP/Mealio) (SERN) Delivery Website-->
@@ -49,10 +53,15 @@ Mostly working on my [Dissertation](https://github.com/JumesP/prism), analysisin
 I've also worked on some small python projects like my Calculator App and Reading Timer.-->
 
 ### Recently Completed Projects:
+- 👨‍💻 [Portfolio v3](https://github.com/JumesP/Portfoliov3) `(NextJS and React based, AWS hosted)` Personal Portfolio - [Jumes.me](https://jumes.me)
+- ♟️ [ChessEngine v1](https:/github.com/JumesP/ChessEngine) `(C# .Net)` Basic Chess Evaluator and Best Move Generator - [Chess Engine](https://jumes.me/chess-engine)
 - 🔐 [GateKeepr](https://github.com/JumesP/GateKeepr) `(Using MEN stack)` is a login authenticator app used for future projects accounts functionality.
+
+<!--
 - 📃 [a todo app](https://github.com/JumesP/todo) `(using TypeScript, React, Tailwind and MongoDB)`
 - 🍪 [Cookie Clicker clone](https://github.com/JumesP/CookieClicker) `(using Javascript, web cookies, HTML and CSS)`
 - 🧮 [Calculator App](https://github.com/JumesP/Calculator-App) `(using Python, Tkinter)`
+-->
 
 <!--
 
@@ -69,7 +78,7 @@ I've also worked on some small python projects like my Calculator App and Readin
 <br>
 
 -->
-
+<br>
 All are viewable on this GitHub account, so feel free to check it out. <!--Soon i will be working on making the README's more descriptive!-->
 
 <!--Dispite all of this, currently on a break from coding to complete assignments!-->
