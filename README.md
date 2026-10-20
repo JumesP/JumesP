@@ -54,7 +54,7 @@ I've also worked on some small python projects like my Calculator App and Readin
 
 ### Recently Completed Projects:
 - 👨‍💻 [Portfolio v3](https://github.com/JumesP/Portfoliov3) `(NextJS and React based, AWS hosted)` Personal Portfolio - [Jumes.me](https://jumes.me)
-- ♟️ [ChessEngine v1](https:/github.com/JumesP/ChessEngine) `(C# .Net)` Basic Chess Evaluator and Best Move Generator - [Chess Engine](https://jumes.me/chess-engine)
+- ♟️ [ChessEngine v1](https://github.com/JumesP/ChessEngine) `(C# .Net)` Basic Chess Evaluator and Best Move Generator - [Chess Engine](https://jumes.me/chess-engine)
 - 🔐 [GateKeepr](https://github.com/JumesP/GateKeepr) `(Using MEN stack)` is a login authenticator app used for future projects accounts functionality.
 
 <!--
